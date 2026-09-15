@@ -1,0 +1,9 @@
+{
+  "name": "TONI&GUY Essensuals Appointments",
+  "short_name": "Essensuals Appointments",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#0b0b0b",
+  "icons": []
+}
